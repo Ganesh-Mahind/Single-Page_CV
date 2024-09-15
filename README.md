@@ -1,1 +1,1 @@
-Sample SOlution for the https://roadmap.sh/projects/single-page-cv
+Sample Solution for the https://roadmap.sh/projects/single-page-cv
